@@ -1,2 +1,2 @@
 # testing-app
-Repository untuk belajar CICD pada Mata Kuliah Sistem Terdisitribusi - STIMIK Tunas Bangsa Banjarnegara
+Repository untuk belajar CICD pada Mata Kuliah Sistem Terdistribusi - STIMIK Tunas Bangsa Banjarnegara
